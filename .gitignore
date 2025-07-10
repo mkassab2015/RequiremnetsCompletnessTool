@@ -1,0 +1,16 @@
+/log
+__pycache__
+*.pyc
+/__pycache__
+*__pycache__
+.env
+
+# Mistral AI
+*.ocr_cache
+mistral_temp/
+ocr_results/
+
+venv/
+/venv/
+/venv
+venv
